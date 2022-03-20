@@ -12,3 +12,5 @@ During the collection, the collection device was placed on a 1 m high table and 
 | 栏目1 | 栏目2 |
 | ----- | ----- |
 | 内容1 | 内容2 |
+| ----- | ----- |
+| 内容1 | 内容2 |
