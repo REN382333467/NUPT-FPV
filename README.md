@@ -1,5 +1,5 @@
-# NJUPT-FPV
-NJUPT-FPV: A multimodal dataset based on fingerprint and finger vein
+# NUPT-FPV
+NUPT-FPV: A multimodal dataset based on fingerprint and finger vein
 
 ## Short Information
 NUPT-FPV obtained 840 finger information from 140 volunteers, each finger was collected 20 times (collected in two sessions), and 33600 fingerprint and finger vein images were obtained (Each subject provided the index, middle and ring fingers of the left and right hands). It is collected by Nanjing University of Posts and Telecommunications(NJUPT). Any one or group is allowed to use this database free of charge.
