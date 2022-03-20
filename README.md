@@ -14,3 +14,5 @@ During the collection, the collection device was placed on a 1 m high table and 
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 | Fingerprint | 140 | 6 | 10 | 2 | 300-400 | 16800 |
 | Finger Vein | 140 | 6 | 10 | 2 | 300-400 | 16800 |
+
+![demo](https://github.com/REN382333467/NJUPT-FPV/blob/main/image/001.png "demo-oo1")  
