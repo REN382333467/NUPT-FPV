@@ -9,14 +9,16 @@ Among these subjects, including 108 males and 32 females, the average age was 19
 During the collection, the collection device was placed on a 1 m high table and the subjects were asked to sit within 0.2-0.5 m in front of the collection device and put their fingers in. Between each collection interval, subjects needed to remove their fingers from the collection device and then put them back in again to ensure the diversity of data. At the same time, the subjects were asked to be in a relaxed state, allowing slight tilt, offset and pressing when putting their fingers in to restore the real scene as much as possible.
 
 
+
 `Statistics description of the proposed NUPT-FPV dataset`
 | Data | Subjects | Finger | Repetitions | Session | Size | Total |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 | Fingerprint | 140 | 6 | 10 | 2 | 300*400 | 16800 |
-| Finger Vein | 140 | 6 | 10 | 2 | 300-400 | 16800 |
+| Finger Vein | 140 | 6 | 10 | 2 | 300*400 | 16800 |
 
 ![demo](https://github.com/REN382333467/NJUPT-FPV/blob/main/image/001.png "demo-oo1")  
 
+We provide fingerprint and finger vein data for two sessions, numbered 1-20. Researchers who need the complete dataset can contact the email address below.
 
 ## Contact
 382333467@qq.com
