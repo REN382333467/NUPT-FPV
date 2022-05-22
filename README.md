@@ -22,6 +22,8 @@ We provide fingerprint and finger vein data for two sessions, numbered 1-20. Res
 
 
 ## Citation
+H. Ren, L. Sun, J. Guo and C. Han, "A Dataset and Benchmark for Multimodal Biometric Recognition Based on Fingerprint and Finger Vein," in IEEE Transactions on Information Forensics and Security, doi: 10.1109/TIFS.2022.3175599. <br>
+
 @ARTICLE{9775730,
   author={Ren, Hengyi and Sun, Lijuan and Guo, Jian and Han, Chong},
   journal={IEEE Transactions on Information Forensics and Security}, 
