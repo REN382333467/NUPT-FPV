@@ -20,5 +20,18 @@ During the collection, the collection device was placed on a 1 m high table and 
 
 We provide fingerprint and finger vein data for two sessions, numbered 1-20. Researchers who need the complete dataset can contact the email address below.
 
+
+## Citation
+@ARTICLE{9775730,
+  author={Ren, Hengyi and Sun, Lijuan and Guo, Jian and Han, Chong},
+  journal={IEEE Transactions on Information Forensics and Security}, 
+  title={A Dataset and Benchmark for Multimodal Biometric Recognition Based on Fingerprint and Finger Vein}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TIFS.2022.3175599}}
+
+
 ## Contact
 382333467@qq.com
