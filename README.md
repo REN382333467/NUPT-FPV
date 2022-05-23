@@ -1,7 +1,8 @@
 # NUPT-FPV
 NUPT-FPV: A multimodal dataset based on fingerprint and finger vein <br>
 
-Paper: A Dataset and Benchmark for Multimodal Biometric Recognition Based on Fingerprint and Finger Vein
+Paper: A Dataset and Benchmark for Multimodal Biometric Recognition Based on Fingerprint and Finger Vein.
+Journal: IEEE Transactions on Information Forensics and Security, 2022
 
 ## Short Information
 NUPT-FPV obtained 840 finger information from 140 volunteers, each finger was collected 20 times (collected in two sessions), and 33600 fingerprint and finger vein images were obtained (Each subject provided the index, middle and ring fingers of the left and right hands). It is collected by Nanjing University of Posts and Telecommunications(NJUPT). Any one or group is allowed to use this database free of charge.
