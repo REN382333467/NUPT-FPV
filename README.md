@@ -1,7 +1,7 @@
 # NUPT-FPV
 NUPT-FPV: A multimodal dataset based on fingerprint and finger vein <br>
 
-Paper: A Dataset and Benchmark for Multimodal Biometric Recognition Based on Fingerprint and Finger Vein.
+Paper: A Dataset and Benchmark for Multimodal Biometric Recognition Based on Fingerprint and Finger Vein.<br>
 Journal: IEEE Transactions on Information Forensics and Security, 2022
 
 ## Short Information
